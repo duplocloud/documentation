@@ -44,3 +44,4 @@ In DuploCloud UI this configuration is under Security → Agents Tab
 
 Deployment of simple architecture
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Lets first create the Infrastructure with a new VPC. For this go to Admin -> Infrastructure
